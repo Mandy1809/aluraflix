@@ -1,0 +1,15 @@
+bodys{
+    border-style:Branco;
+    background: preto;
+    margin: 0px;
+    família de fontes; "Chakra Petch", sem serifa;
+}
+    
+    header{
+    border-bottom: sólido 1px laranja escuro;
+    font-size: 32px;
+    color: Laranja Escuro;
+    }
+    
+    section {
+        background: darkslateblue;}
